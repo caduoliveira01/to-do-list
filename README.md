@@ -9,6 +9,7 @@
 git clone https://github.com/caduoliveira01/to-do-list.git
 
 >Dentro da past backend entre em backend\src\main\java\com\dev\backend, execute o BackendApplication.java
+
 >Dentro da past frontend, execute o comando npm run dev para inicar o front que está localizado em http://localhost:3000
 
 ## Endpoints da API
