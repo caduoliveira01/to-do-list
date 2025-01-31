@@ -5,7 +5,7 @@
 >Node.js, npm e maven.
 
 # Como execeutar
->clone o repositório
+>clone o repositório:
 git clone https://github.com/caduoliveira01/to-do-list.git
 
 >Dentro da past backend entre em backend\src\main\java\com\dev\backend, execute o BackendApplication.java
