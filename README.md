@@ -1,10 +1,10 @@
-#To-do list - NewM#
+##To-do list - NewM
 Este projeto é uma lista de tarefas, feito com Spring boot, React + Vite e MySQL
 
-#Pre-requisítos#
+##Pre-requisítos
 Node.js, npm e maven.
 
-#Como executar#
+##Como executar
 clone o repositório
 git clone https://github.com/caduoliveira01/to-do-list.git
 
