@@ -1,4 +1,4 @@
-# To-do List - NewM
+# To-do List 
 >Este projeto é uma lista de tarefas, feito com Spring boot, React + Vite e MySQL
 
 # Pré-Requisitos
